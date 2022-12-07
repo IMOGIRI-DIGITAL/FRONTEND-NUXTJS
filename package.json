@@ -24,7 +24,7 @@
     "numeral": "^2.0.6",
     "nuxt": "^2.0.0",
     "nuxt-stripe-module": "^2.0.0",
-    "qs": "^6.9.1",
+    "qs": "^6.7.3",
     "truncate": "^2.1.0",
     "vuetify": "^2.1.15"
   },
