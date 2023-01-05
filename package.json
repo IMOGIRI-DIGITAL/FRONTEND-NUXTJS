@@ -22,7 +22,7 @@
     "fs": "0.0.1-security",
     "moment": "^2.24.0",
     "numeral": "^2.0.6",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "nuxt-stripe-module": "^2.0.0",
     "qs": "^6.9.1",
     "truncate": "^2.1.0",
